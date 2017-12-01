@@ -96,7 +96,7 @@ letters = {'a': '    A    '
 'm':
                 ' M     M '
                 ' MM   MM '
-                ' M M M M'
+                ' M M M M '
                 ' M  M  M '
                 ' M     M '
                 ' M     M '
@@ -181,7 +181,7 @@ letters = {'a': '    A    '
                 ' W  W  W '
                 ' W W W W '
                 ' W     W ',
-'X':
+'x':
                 ' X     X '
                 '  X   X  '
                 '   X X   '
